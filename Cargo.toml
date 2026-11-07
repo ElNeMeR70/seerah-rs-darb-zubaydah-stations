@@ -1,0 +1,10 @@
+[package]
+name = "seerah-rs-darb-zubaydah-stations"
+version = "1.0.0"
+edition = "2021"
+description = "Darb Zubaydah & Historic Hajj Caravan Route Birkat/Milestone Graph"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "seerah_rs_darb_zubaydah_stations"
+path = "main.rs"
